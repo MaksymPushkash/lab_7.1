@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\lab_7.1\\UnitTest\\lab_07.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{384D78D0-1643-4EF4-B880-AABCD6502552}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\admin\\Desktop\\lab_7.1\\UnitTest\\lab_07.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{384D78D0-1643-4EF4-B880-AABCD6502552}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73985ED4-1D1E-4BCA-BF50-AD6F4A93C074}|lab_07.1\\lab_07.1.vcxproj|C:\\Users\\admin\\Desktop\\lab_7.1\\UnitTest\\lab_07.1\\lab_07.1\\lab_07.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73985ED4-1D1E-4BCA-BF50-AD6F4A93C074}|lab_07.1\\lab_07.1.vcxproj|solutionrelative:lab_07.1\\lab_07.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\lab_7.1\\UnitTest\\lab_07.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\lab_7.1\\UnitTest\\lab_07.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T15:33:37.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab_07.1.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\lab_7.1\\UnitTest\\lab_07.1\\lab_07.1\\lab_07.1.cpp",
+              "RelativeDocumentMoniker": "lab_07.1\\lab_07.1.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\lab_7.1\\UnitTest\\lab_07.1\\lab_07.1\\lab_07.1.cpp",
+              "RelativeToolTip": "lab_07.1\\lab_07.1.cpp",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAEMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T15:33:00.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
